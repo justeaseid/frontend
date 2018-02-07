@@ -78,7 +78,7 @@ define('ROOT', getcwd());
 define('DATA', ROOT . '/public/data/');
 
 /* define all image */
-define('ICON', DIST_IMG . '/logo/justease_white.png');
+define('ICON', DIST_IMG . '/logo/js_logo_small.png');
 define('LOGO', DIST_IMG . '/logo/front_logo_white.png');
 define('BRAND', DIST_IMG . '/logo/brand_logo_trans.png');
 
