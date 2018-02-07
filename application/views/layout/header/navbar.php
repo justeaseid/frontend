@@ -1,4 +1,6 @@
-<nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="background-color:white;">
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation" 
+     style="background-color:white;border-style: solid;border-width: 0px 0px 5px 0px;
+     border-color: #cb2d3e;">
     <div class="container">
 
         <!-- logo&header -->
@@ -9,7 +11,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="<?php echo base_url(); ?>">
                 <img src="<?php echo BRAND; ?>" style="height: 30px;" alt="justease.id">
             </a>
         </div>
@@ -28,6 +30,7 @@
                 </li>
             </ul>	
             <ul class="nav navbar-nav navbar-right">
+                <button type="button" class="btn btn-default button-1 navbar-btn"><a href="#">Daftar</a></button>	
                 <button type="button" class="btn btn-default button-1 navbar-btn"><a href="#">Masuk</a></button>	
             </ul>
         </div>
