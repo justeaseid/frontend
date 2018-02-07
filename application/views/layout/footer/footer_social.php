@@ -1,10 +1,10 @@
 <div class="social">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-sm-4">
+<!--            <div class="col-sm-4">
                 <h4>Cari kami di:</h4>
-            </div>	
-            <div class="col-sm-8 text-right">
+            </div>	-->
+            <div class="col-sm-12 text-center">
                 <ul class="list-inline">
                     <li>
                         <a href="#" class="btn btn-social btn-outline"><span class="sr-only">Facebook</span><i class="fa fa-facebook"></i></a>
