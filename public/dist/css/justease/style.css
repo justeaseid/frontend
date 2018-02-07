@@ -48,6 +48,9 @@ a.navbar-brand {
     background-color: #e8f3ff;
     color: #1c86ff;
     border: 1px solid #1c86ff;
+/*    margin-top: 8px;
+    margin-bottom: 8px;
+    padding: 6px 12px;*/
 }
 
 .navbar-default .navbar-nav 
