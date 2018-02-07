@@ -13,14 +13,14 @@
     <div class="carousel-inner" role="list-box">
 
         <div class="item active">
-            <img src="<?php echo DIST_IMG; ?>/justease/pexels-photo-2.jpeg" alt="pexels-1">
+            <img src="<?php echo DIST_IMG; ?>/media/pexels-photo-2.jpeg" alt="pexels-1">
             <div class="carousel-caption">
                 <h4>"lorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum"</h4>
             </div>
         </div>
 
         <div class="item">
-            <img src="<?php echo DIST_IMG; ?>/justease/lib.jpeg" alt="pexels-2">
+            <img src="<?php echo DIST_IMG; ?>/media/lib.jpeg" alt="pexels-2">
             <div class="carousel-caption">
                 <h4>"lorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum"</h4>
             </div>

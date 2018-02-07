@@ -1,15 +1,15 @@
 <!-- how it works in card legal cases -->	
 <div class="container-fluid bg-firewatch">    
-    <h1 class="text-center"><strong>Daftar kasus</strong></h1>
+    <h1 class="text-center"><strong>Daftar Kasus</strong></h1>
 </div>
 
 <div class="container-fluid" style="margin-top: 10px;">
     <div class="col-sm-4">
         <div class="thumbnail">
-            <img src="<?php echo DIST_IMG; ?>/justease/kendeng.jpg" alt="kendeng">
-            <div class="panel-heading"><h3>Bantu Desa Kendeng relokasi pabrik semen</h3></div>
-            <div class="panel-body"><i class="fa fa-tags" aria-hidden="true"> <span>Lingkungan hidup/HAM</span></i></div>
-            <div class="panel-body">
+            <img src="<?php echo DIST_IMG; ?>/case/ibu_anak.jpg" alt="buruh" style="width: 100%" height="300">
+            <div class="panel-heading"><h3>Bantu Ibu yang digugat anaknya</h3></div>
+            <div class="panel-body"><i class="fa fa-tags" aria-hidden="true"> <span>Keluarga</span></i></div>
+            <div class="panel-body text-justify">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varis qua sit amet vulputate. 
                 Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero.Asit amet felis 
                 dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elemauctor accumsan. 
@@ -46,10 +46,10 @@
 
     <div class="col-sm-4">
         <div class="thumbnail">
-            <img src="<?php echo DIST_IMG; ?>/justease/penggusuran.jpg" alt="penggusuran">
-            <div class="panel-heading"><h3>Bantu kampung "X" klaim kampung halaman mereka</h3></div>
-            <div class="panel-body"><i class="fa fa-tags" aria-hidden="true"> <span>Penggusuran</span></i></div>
-            <div class="panel-body">
+            <img src="<?php echo DIST_IMG; ?>/case/kasus_nenek_minah.jpg" alt="buruh" style="width: 100%" height="300">
+            <div class="panel-heading"><h3>Bantu Kasus Nenek Minah</h3></div>
+            <div class="panel-body"><i class="fa fa-tags" aria-hidden="true"> <span>Individu</span></i></div>
+            <div class="panel-body  text-justify">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetvaris quam 		sit amet vulputate. 
                 Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero.Asit amet felis 
                 dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elemauctor accumsan. 
@@ -86,10 +86,10 @@
 
     <div class="col-sm-4">
         <div class="thumbnail">
-            <img src="<?php echo DIST_IMG; ?>/justease/buruh.jpg" alt="buruh">
-            <div class="panel-heading"><h3>Bantu buruh PT.X gugat tunggakan gaji</h3></div>
+            <img src="<?php echo DIST_IMG; ?>/case/kasus_tki.jpg" alt="buruh" style="width: 100%" height="300">
+            <div class="panel-heading"><h3>Bantu TKI Hong Kong yang disiksa majikannya</h3></div>
             <div class="panel-body"><i class="fa fa-tags" aria-hidden="true"> <span>Ketenagakerjaan</span></i></div>
-            <div class="panel-body">
+            <div class="panel-body  text-justify">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetvaris quam 		sit amet vulputate. 
                 Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero.Asit amet felis 
                 dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elemauctor accumsan. 
@@ -130,5 +130,7 @@
 </div>-->
 
 <div class="text-center">
-    <p a class="button-animated" href="#" role="button"><span> Muat Lainnya </span></p>
+    <a class="button-animated" href="<?php echo base_url('/campaign') ?>" role="button">
+        <span> Muat Lainnya </span>
+    </a>
 </div>

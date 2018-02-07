@@ -2,6 +2,7 @@
     <div class="jumbotron">
         <div class="text-right">
             <h1 class="modif-text">Akses hukum untuk siapapun, di manapun</h1>
+            <!--<p class="modif-text"><b>Platform galang dana dan donasi online untuk kasus hukum</b></p>-->
             <p class="modif-text">Platform galang dana dan donasi online untuk kasus hukum</p>
         </div>
         <div class="text-center">
