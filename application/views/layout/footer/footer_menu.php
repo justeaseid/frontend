@@ -31,8 +31,8 @@
 
             <div class="footer-col col-lg-3 col-md-3">
                 <h5>Contact Us</h5>
-                <h4 class="fa fa-map-marker"> Solo Bengawan Valley</h4>
-                <h4 class="fa fa-inbox"> justeaseid@gmail.com</h4>
+                <li><h4 class="fa fa-map-marker"> Solo Bengawan Valley</h4></li>
+                <li><h4 class="fa fa-inbox"> justeaseid@gmail.com</h4></li>
             </div>
 
         </div>

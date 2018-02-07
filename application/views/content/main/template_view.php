@@ -22,7 +22,7 @@
         <?php $this->load->view('content/main/case'); ?>
 
         <!-- carousel -->
-        <?php $this->load->view('content/main/opini'); ?>
+        <?php // $this->load->view('content/main/opini'); ?>
 
         <!-- footer section -->
         <?php $this->load->view('layout/footer/footer'); ?>

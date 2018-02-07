@@ -3,7 +3,7 @@
     <h1 class="text-center"><strong>Daftar kasus</strong></h1>
 </div>
 
-<div class="container-fluid" style="margin-top: 50px;">	
+<div class="container-fluid" style="margin-top: 10px;">
     <div class="col-sm-4">
         <div class="thumbnail">
             <img src="<?php echo DIST_IMG; ?>/justease/kendeng.jpg" alt="kendeng">
@@ -125,25 +125,10 @@
     </div>
 </div>
 
-<!-- pagination -->
-<div class="container-fluid bg-grey text-center">
-    <nav aria-label="Page navigation">
-        <ul class="pagination">
-            <li>
-                <a href="#" aria-label="Previous">
-                    <span aria-hidden="true">&laquo;</span>
-                </a>
-            </li>
-            <li><a href="#">1</a></li>
-            <li><a href="#">2</a></li>
-            <li><a href="#">3</a></li>
-            <li><a href="#">4</a></li>
-            <li><a href="#">5</a></li>
-            <li>
-                <a href="#" aria-label="Next">
-                    <span aria-hidden="true">&raquo;</span>
-                </a>
-            </li>
-        </ul>
-    </nav>
+<!--<div class="container-fluid text-center" style="padding-bottom: 30px;">
+    <button class="btn btn-info btn-lg" type=submit href="#">Muat Lainnya</button>
+</div>-->
+
+<div class="text-center">
+    <p a class="button-animated" href="#" role="button"><span> Muat Lainnya </span></p>
 </div>

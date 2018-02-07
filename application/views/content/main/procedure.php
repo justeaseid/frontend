@@ -75,9 +75,12 @@
     </div>
 
     <!-- CTA button -->
-
-    <div class="container-fluid text-center" style="padding-bottom: 30px;">
-        <button class="btn btn-info btn-lg" type=submit href="#">Mulai sekarang</button>
+<!--    <div class="container-fluid text-center" style="padding-bottom: 30px;">
+        <button class="btn btn-default btn-lg" type=submit href="#">Mulai sekarang</button>
+    </div>-->
+    <div class="text-center">
+        <p a class="button-animated" href="#" role="button"><span> Mulai Sekarang </span></p>
     </div>
+    
     <div class="container-fluid"></div>
 </div>

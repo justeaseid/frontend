@@ -10,7 +10,6 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="#">
-                <!--<img class="img-circle" src="<?php // echo BRAND;     ?>" style="height: 30px;" alt="justease.id">-->
                 <img src="<?php echo BRAND; ?>" style="height: 30px;" alt="justease.id">
             </a>
         </div>
@@ -28,10 +27,7 @@
                     </ul>
                 </li>
             </ul>	
-            <ul class="nav navbar-nav navbar-right">	
-                <!--                <button type="button" class="btn btn-default button-1 navbar-btn"><a href="#">Buat campaign</a></button>
-                                <button type="button" class="btn btn-default button-2 navbar-btn"><a href="#">Donasi</a></button>-->
-                <!--<button type="button" style="visibility: hidden;"><a href="#">Donasi</a></button>-->
+            <ul class="nav navbar-nav navbar-right">
                 <button type="button" class="btn btn-default button-1 navbar-btn"><a href="#">Masuk</a></button>	
             </ul>
         </div>
