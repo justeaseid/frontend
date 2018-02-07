@@ -1,7 +1,7 @@
 <!-- title procedure -->
 <div class="container">
     <div class="row">
-        <div class="col-sm-12">	
+        <div class="col-sm-12 text-center">	
             <h1><strong>Ayo jadi #legalhero dengan mengikuti 4 langkah ini</strong></h1>
         </div>
     </div>
