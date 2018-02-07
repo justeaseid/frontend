@@ -36,6 +36,14 @@ class Apps extends CI_Controller {
         $this->load->view("content/main/template_view", $data);
     }
     
+    function campaign() {
+        $data = array();
+        $data["email"] = "";
+        $data["password"] = "";
+        $data["status"] = "Sign In";
+        $this->load->view("content/campaign/campaign_view", $data);
+    }
+    
     function login() {
         $data = array();
         $data["email"] = "";
