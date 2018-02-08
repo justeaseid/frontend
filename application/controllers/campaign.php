@@ -30,6 +30,7 @@ class Campaign extends CI_Controller {
         $data["email"] = "";
         $data["password"] = "";
         $data["status"] = "Sign In";
+        $data["title"] = "justease - Campaign List";
         $this->load->view("content/campaign/campaign_view", $data);
     }
     
