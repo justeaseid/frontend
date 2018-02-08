@@ -30,8 +30,8 @@
                 </li>
             </ul>	
             <ul class="nav navbar-nav navbar-right">
-                <button type="button" class="btn btn-default button-1 navbar-btn"><a href="#">Daftar</a></button>	
-                <button type="button" class="btn btn-default button-1 navbar-btn"><a href="#">Masuk</a></button>	
+                <button type="button" class="btn btn-default button-1 navbar-btn"><a href="<?php echo base_url('/user/register'); ?>">Daftar</a></button>	
+                <button type="button" class="btn btn-default button-1 navbar-btn"><a href="<?php echo base_url('/user/login'); ?>">Masuk</a></button>	
             </ul>
         </div>
     </div>
