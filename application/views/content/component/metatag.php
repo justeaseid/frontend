@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>justease - Donasi untuk Kasus Hukum</title>
+<title><?php echo $title;?></title>
 <link rel="shortcut icon" href="<?php echo ICON; ?>" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="mobile-web-app-capable" content="yes">
