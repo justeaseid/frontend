@@ -19,7 +19,7 @@
         <!-- navbar items -->
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul class="nav navbar-nav navbar-left">
-                <li><a href="#">Blog</a></li>
+                <li><a href="<?php echo base_url('/blog'); ?>">Blog</a></li>
 
                 <!-- dropdown menus -->
                 <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Support <span class="caret"></span></a>
