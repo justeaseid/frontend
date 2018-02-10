@@ -145,6 +145,23 @@ class Dashboard extends CI_Controller {
         $this->load->view("dashboard/main/board_view", $data);
     }
     
+    function invoice() {
+        $data = array();
+        $data["email"] = "";
+        $data["password"] = "";
+        $data["status"] = "";
+        $data["title"] = "Invoice";
+        
+        $data["name"] = "justease Admin";
+        $data["username"] = "@justeaseAdmin";
+        $data["id_user"] = "88888888";
+        $data["active_menu"] = "invoice";
+        $data["campaign"] = number_format("12345678", 0, '.', ',');
+        $data["donasi"] = number_format("5678", 0, '.', ',');
+        
+        $this->load->view("dashboard/main/board_view", $data);
+    }
+    
 }
 
 ?>
