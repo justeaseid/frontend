@@ -34,7 +34,7 @@
                         echo "<td style='word-wrap: break-word;'> <a href='#'>" . $row['campaign'] . "</a></td>";
                         echo "<td> Rp " . number_format($row['donasi'], 0, '.', ',') . "</td>";
                         echo "<td>" . $row['tanggal'] . "</td>";
-                        echo "<td>" . $row['status'] . "</td>";
+                        echo "<td><a href='". base_url('/dashboard/invoice/88888888') ."'>" . $row['status'] . "</a></td>";
                         echo "</tr>";
                         $i++;
                     }
