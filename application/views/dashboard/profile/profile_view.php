@@ -29,6 +29,8 @@
         $this->load->view('dashboard/menu/menu_log'); 
     }else if($active_menu=="profile"){
         $this->load->view('dashboard/menu/menu_profile'); 
+    }else if($active_menu=="invoice"){
+        $this->load->view('dashboard/menu/menu_donasi'); 
     }else {
         $this->load->view('dashboard/menu/menu_log'); 
     }

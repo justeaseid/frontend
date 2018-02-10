@@ -34,6 +34,8 @@
                             $this->load->view('dashboard/tables/tables_log');
                         } else if ($active_menu == "profile") {
                             $this->load->view('dashboard/profile/profile_detail');
+                        } else if ($active_menu == "invoice") {
+                            $this->load->view('dashboard/invoice/card');
                         } else {
                             $this->load->view('dashboard/tables/tables_log');
                         }
