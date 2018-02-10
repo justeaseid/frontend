@@ -12,7 +12,7 @@
         <div class="box-body">
             <img class="img-responsive pad" src="<?php echo DIST_IMG; ?>/case/ibu_anak.jpg" style="width: 100%" height="300" alt="Photo">
 
-            <p><b>Ibu yang digugat anaknya</b></p>
+            <p><b><a href="<?php echo base_url('/blog/article/88888888'); ?>">Ibu yang digugat anaknya</a></b></p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetvaris quam 		sit amet vulputate. 
                 Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero.Asit amet felis 
                 dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elemauctor accumsan. 

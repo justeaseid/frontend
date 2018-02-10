@@ -11,7 +11,7 @@
         <?php $this->load->view('content/component/gtm_frame'); ?>
 
         <!-- Navbar -->
-        <?php $this->load->view('layout/header/navbar'); ?>
+        <?php $this->load->view('layout/header/navbar_blog'); ?>
 
         <!-- content case list -->
         <!--        <div class="content-wrapper">-->
