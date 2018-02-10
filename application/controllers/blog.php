@@ -34,6 +34,15 @@ class Blog extends CI_Controller {
         $this->load->view("content/blog/blog_view", $data);
     }
     
+    function article() {
+        $data = array();
+        $data["email"] = "";
+        $data["password"] = "";
+        $data["status"] = "Sign In";
+        $data["title"] = "Article";
+        $this->load->view("content/article/article_view", $data);
+    }
+    
 }
 
 ?>
