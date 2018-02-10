@@ -85,7 +85,7 @@ define('BRAND', DIST_IMG . '/logo/brand_logo_trans.png');
 /* gender pic */
 define('MAN', DIST_IMG . '/avatar/avatar5.png');
 define('WOMAN', DIST_IMG . '/avatar/avatar2.png');
-define('USER_ICON', DIST_IMG . '/avatar/admin.png');
+define('USER_ICON', DIST_IMG . '/avatar/user.png');
 define('APPS_ICON', DIST_IMG . '/avatar/apps.png');
 
 define('MYTIME', date_default_timezone_set('Asia/Jakarta'));
