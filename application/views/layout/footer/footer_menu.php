@@ -18,9 +18,9 @@
 
             <div class="footer-col col-lg-2">
                 <h5>Resource</h5>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">LBH Jakarta</a></li>
-                <li><a href="#">Kemenkumham RI</a></li>
+                <li><a href="<?php echo base_url('/blog'); ?>">Blog</a></li>
+                <li><a href="https://www.bantuanhukum.or.id/web/">LBH Jakarta</a></li>
+                <li><a href="http://www.ylbhi.or.id/">YLBH Indonesia</a></li>
             </div>
 
             <div class="footer-col col-lg-2 col-md-3">
