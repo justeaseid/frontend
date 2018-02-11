@@ -32,3 +32,4 @@
 <meta property="og:type" content="website">
 <link rel="canonical" href="http://justease.kinionline.com/blog/article/88888888">
 
+<meta name="google-site-verification" content="P0FkDRxJkwDaiKg7LS7JjRsb-iJ3P0elG41TSjDoPac" />
