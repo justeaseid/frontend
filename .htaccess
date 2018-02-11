@@ -4,6 +4,10 @@ DirectoryIndex index.php
 # Rewrite engine
 RewriteEngine On
 
+# www access
+RewriteCond %{HTTP_HOST} ^justease.id [NC]
+RewriteRule ^(.*)$ http://www.justease.id/$1 [L,R=301,NC]
+
 # condition with escaping special chars
 RewriteCond $1 !^(index\.php|robots\.txt|favicon\.ico)
 RewriteCond %{REQUEST_FILENAME} !-f
